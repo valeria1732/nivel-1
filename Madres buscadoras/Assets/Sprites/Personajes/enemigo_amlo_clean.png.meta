@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 06258981ae0d2ea4f8f10009b05d2a08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2735477601850094224
+    second: enemigo_amlo_clean_0
+  - first:
+      213: 6236881626020999940
+    second: enemigo_amlo_clean_1
+  - first:
+      213: 3047565222988793094
+    second: enemigo_amlo_clean_2
+  - first:
+      213: 8876819965199891487
+    second: enemigo_amlo_clean_3
+  - first:
+      213: -5331524572627532967
+    second: enemigo_amlo_clean_4
+  - first:
+      213: -7343410826461734066
+    second: enemigo_amlo_clean_5
+  - first:
+      213: -5726150514543457804
+    second: enemigo_amlo_clean_6
+  - first:
+      213: 3478649565121269817
+    second: enemigo_amlo_clean_7
+  - first:
+      213: -6771288637060896916
+    second: enemigo_amlo_clean_8
+  - first:
+      213: -8002233716732326673
+    second: enemigo_amlo_clean_9
+  - first:
+      213: 2855054520008830859
+    second: enemigo_amlo_clean_10
+  - first:
+      213: -8340254280433369688
+    second: enemigo_amlo_clean_11
+  - first:
+      213: -8013633488219070269
+    second: enemigo_amlo_clean_12
+  - first:
+      213: 5762039017015783067
+    second: enemigo_amlo_clean_13
+  - first:
+      213: -279376534301119703
+    second: enemigo_amlo_clean_14
+  - first:
+      213: 8300041377035374432
+    second: enemigo_amlo_clean_15
+  - first:
+      213: 7547639876933625606
+    second: enemigo_amlo_clean_16
+  - first:
+      213: 6641006078799293582
+    second: enemigo_amlo_clean_17
+  - first:
+      213: 4409040936553574592
+    second: enemigo_amlo_clean_18
+  - first:
+      213: -1387790017627761914
+    second: enemigo_amlo_clean_19
+  - first:
+      213: 8117782759193650203
+    second: enemigo_amlo_clean_20
+  - first:
+      213: 6403715913070309907
+    second: enemigo_amlo_clean_21
+  - first:
+      213: 3785796257329883610
+    second: enemigo_amlo_clean_22
+  - first:
+      213: 159067571912301418
+    second: enemigo_amlo_clean_23
+  - first:
+      213: -7696454721989826494
+    second: enemigo_amlo_clean_24
+  - first:
+      213: 4319523074674264107
+    second: enemigo_amlo_clean_25
+  - first:
+      213: -8243663242748608149
+    second: enemigo_amlo_clean_26
+  - first:
+      213: 1747348218431334891
+    second: enemigo_amlo_clean_27
+  - first:
+      213: 9096001282785292409
+    second: enemigo_amlo_clean_28
+  - first:
+      213: -7527667242775188751
+    second: enemigo_amlo_clean_29
+  - first:
+      213: -7050739354723958163
+    second: enemigo_amlo_clean_30
+  - first:
+      213: -3359845266045291476
+    second: enemigo_amlo_clean_31
+  - first:
+      213: 8866240979726813430
+    second: enemigo_amlo_clean_32
+  - first:
+      213: -7912505338995221577
+    second: enemigo_amlo_clean_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 427
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07d00b24d91a90ad0800000000000000
+      internalID: -2735477601850094224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 427
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40374216bcadd8650800000000000000
+      internalID: 6236881626020999940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_2
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 420
+        width: 115
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 605c4127c602b4a20800000000000000
+      internalID: 3047565222988793094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_3
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 420
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1cb5d81abcc03b70800000000000000
+      internalID: 8876819965199891487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_4
+      rect:
+        serializedVersion: 2
+        x: 613
+        y: 486
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953054916ae9206b0800000000000000
+      internalID: -5331524572627532967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_5
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 468
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b9df8a2c6f61a90800000000000000
+      internalID: -7343410826461734066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_6
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 476
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9873a0270a880b0800000000000000
+      internalID: -5726150514543457804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 282
+        width: 75
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930de1b4955a64030800000000000000
+      internalID: 3478649565121269817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_8
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 282
+        width: 71
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67a8544cdc8702a0800000000000000
+      internalID: -6771288637060896916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_9
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 278
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec048015da52f090800000000000000
+      internalID: -8002233716732326673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_10
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 278
+        width: 97
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8fef7f85f03f9720800000000000000
+      internalID: 2855054520008830859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_11
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 358
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ad7656abe6714c80800000000000000
+      internalID: -8340254280433369688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_12
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 336
+        width: 6
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0278eeccad9c090800000000000000
+      internalID: -8013633488219070269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_13
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 278
+        width: 116
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9eaa2715ffd6ff40800000000000000
+      internalID: 5762039017015783067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_14
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 278
+        width: 87
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92be662b5847f1cf0800000000000000
+      internalID: -279376534301119703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_15
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 314
+        width: 105
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fcc3b28abaf2370800000000000000
+      internalID: 8300041377035374432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_16
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 344
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a33d9a7a9eb860800000000000000
+      internalID: 7547639876933625606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_17
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 351
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8caa06d7d7992c50800000000000000
+      internalID: 6641006078799293582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_18
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 324
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c07e672f5f003d30800000000000000
+      internalID: 4409040936553574592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_19
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 139
+        width: 69
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 603d670f4549dbce0800000000000000
+      internalID: -1387790017627761914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_20
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 138
+        width: 72
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14278dd86828a070800000000000000
+      internalID: 8117782759193650203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_21
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 138
+        width: 106
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3127211d1b19ed850800000000000000
+      internalID: 6403715913070309907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_22
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 138
+        width: 114
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad9a62653a9d98430800000000000000
+      internalID: 3785796257329883610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_23
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 139
+        width: 114
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bdd172d1f153200800000000000000
+      internalID: 159067571912301418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_24
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 168
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2482be93533b03590800000000000000
+      internalID: -7696454721989826494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 164
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b280011c95702fb30800000000000000
+      internalID: 4319523074674264107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_26
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 138
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61460025ff989d80800000000000000
+      internalID: -8243663242748608149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_27
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 143
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9e28262f3df3810800000000000000
+      internalID: 1747348218431334891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_28
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 91
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9703ae859fc7b3e70800000000000000
+      internalID: 9096001282785292409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_29
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 4
+        width: 98
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa6a07a68a588790800000000000000
+      internalID: -7527667242775188751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_30
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3
+        width: 101
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62cfcdc9edb62e90800000000000000
+      internalID: -7050739354723958163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_31
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 82
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b711288e6f51d0800000000000000
+      internalID: -3359845266045291476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1009
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8c0a912373b0b70800000000000000
+      internalID: 8866240979726813430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemigo_amlo_clean_33
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 4
+        width: 126
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bbdec10152213290800000000000000
+      internalID: -7912505338995221577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enemigo_amlo_clean_0: -2735477601850094224
+      enemigo_amlo_clean_1: 6236881626020999940
+      enemigo_amlo_clean_10: 2855054520008830859
+      enemigo_amlo_clean_11: -8340254280433369688
+      enemigo_amlo_clean_12: -8013633488219070269
+      enemigo_amlo_clean_13: 5762039017015783067
+      enemigo_amlo_clean_14: -279376534301119703
+      enemigo_amlo_clean_15: 8300041377035374432
+      enemigo_amlo_clean_16: 7547639876933625606
+      enemigo_amlo_clean_17: 6641006078799293582
+      enemigo_amlo_clean_18: 4409040936553574592
+      enemigo_amlo_clean_19: -1387790017627761914
+      enemigo_amlo_clean_2: 3047565222988793094
+      enemigo_amlo_clean_20: 8117782759193650203
+      enemigo_amlo_clean_21: 6403715913070309907
+      enemigo_amlo_clean_22: 3785796257329883610
+      enemigo_amlo_clean_23: 159067571912301418
+      enemigo_amlo_clean_24: -7696454721989826494
+      enemigo_amlo_clean_25: 4319523074674264107
+      enemigo_amlo_clean_26: -8243663242748608149
+      enemigo_amlo_clean_27: 1747348218431334891
+      enemigo_amlo_clean_28: 9096001282785292409
+      enemigo_amlo_clean_29: -7527667242775188751
+      enemigo_amlo_clean_3: 8876819965199891487
+      enemigo_amlo_clean_30: -7050739354723958163
+      enemigo_amlo_clean_31: -3359845266045291476
+      enemigo_amlo_clean_32: 8866240979726813430
+      enemigo_amlo_clean_33: -7912505338995221577
+      enemigo_amlo_clean_4: -5331524572627532967
+      enemigo_amlo_clean_5: -7343410826461734066
+      enemigo_amlo_clean_6: -5726150514543457804
+      enemigo_amlo_clean_7: 3478649565121269817
+      enemigo_amlo_clean_8: -6771288637060896916
+      enemigo_amlo_clean_9: -8002233716732326673
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
